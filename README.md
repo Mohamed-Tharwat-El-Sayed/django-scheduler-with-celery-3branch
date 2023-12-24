@@ -1,7 +1,7 @@
 # DJANGO_SCHEDULE_JOBS_
 
 Hi there.
-this is Django app with celery and flower to monitor and redis as massege brocker and postres as  a database on docker on localhost will you get up and running quickly
+this is Django app with celery and flower to monitor and redis as massege brocker and postres as  a database on docker on localhost  , we will you get up and running quickly
 
 ### Local Development Setup
 
