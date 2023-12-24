@@ -34,6 +34,6 @@ this is Django app with celery and flower to monitor and redis as massege brocke
 ### Local Development Setup with Docker
 1. Create an env file `cp .env.template .env`
 2. Install Docker & Docker compose
-3. Compose a docker image `docker-compose -f docker-compose.yml up -d --build`
+3. Compose a docker image `docker-compose -f docker-compose-dev.yml up -d --build`
 
 
