@@ -13,7 +13,7 @@ Before you begin, ensure that the following prerequisites are met:
 
 ### Local Development Setup
 
-1. Clone this repo `https://github.com/bobby-didcoding/did_django_schedule_jobs_v2.git`
+1. Clone this repo `https://github.com/Mohamed-Tharwat-El-Sayed/django-scheduler-with-celery-3branch.git`
 2. Create your .env file from the template file `cp .env.template backend/.env`
 
 ### Install Redis for Celery 
